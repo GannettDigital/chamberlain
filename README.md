@@ -1,4 +1,4 @@
-# bi-sqoop-encrypted-password-generator
+# Chamberlain (The encrypted password generator)
 
 Generate encrypted password files to be used by sqoop, using sqoop default encryption algorithm.
 
